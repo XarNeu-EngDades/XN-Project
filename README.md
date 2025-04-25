@@ -1,4 +1,4 @@
-# XNAP-Project title (replace it by the title of your project)
+# XN-Project title (replace it by the title of your project)
 Write here a short summary about your project. The text must include a short introduction and the targeted goals
 
 ## Code structure
